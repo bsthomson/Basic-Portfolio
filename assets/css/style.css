@@ -1,0 +1,25 @@
+#shrek {
+    float: left;
+}
+
+.links1 {
+    float: right;
+    margin-right: 100px;
+}
+
+.clearfix:after {
+    content: ".";
+    visibility: hidden;
+    display: block;
+    height: 0;
+    clear: both;
+}
+
+body {
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+.header {
+    float: left;
+}
