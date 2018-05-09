@@ -2,9 +2,17 @@
     float: left;
 }
 
+header {
+    width: 100%;
+}
+
+.heading {
+    width: 50%;
+}
+
 .links1 {
     float: right;
-    margin-right: 100px;
+    width: 40%;
 }
 
 .clearfix:after {
@@ -18,8 +26,4 @@
 body {
     margin-left: 250px;
     margin-right: 250px;
-}
-
-.header {
-    float: left;
 }
