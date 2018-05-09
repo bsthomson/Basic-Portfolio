@@ -4,10 +4,12 @@
 
 header {
     width: 100%;
+    text-size-adjust: 50;
 }
 
 .heading {
     width: 50%;
+    float: left;
 }
 
 .links1 {
