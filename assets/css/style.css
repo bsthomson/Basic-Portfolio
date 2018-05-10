@@ -92,3 +92,34 @@ article {
     height: 400px;
     
 }
+
+.Image1 {
+    float: left;
+}
+
+.Image3 {
+    float: left;
+}
+
+.Image1 {
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.Image2 {
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+.Image3 {
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+.Image4 {
+    margin-right: 20px;
+    margin-bottom: 20px;
+
+}.Image5 {
+    margin-right: 20px;
+    margin-bottom: 20px;
+    float: left;
+}
