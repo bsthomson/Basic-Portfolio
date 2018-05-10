@@ -7,10 +7,10 @@ body {
 }
 
 header {
-    color: #ffffff;    
     text-size-adjust: 50;
     font-family: 'Georgia', Times, Times New Roman, serif;
-    background-color: #ffffff;    
+    background-color: #ffffff;
+    overflow: auto;   
 }
 
 section {
@@ -78,42 +78,98 @@ h1 {
 }
 
 article {
-    height: 400px;s    
-}
-
-.Image1 {
-    float: left;
-}
-
-.Image3 {
-    float: left;
+    height: 400px;    
 }
 
 .Image1 {
     margin-right: 20px;
     margin-bottom: 20px;
     float: left;
+    position: relative;
 }
 
 .Image2 {
     margin-right: 20px;
     margin-bottom: 20px;
     float: left;
+    position: relative;
 }
 .Image3 {
     margin-right: 20px;
     margin-bottom: 20px;
     float: left;
+    position: relative;
 }
 .Image4 {
     margin-right: 20px;
     margin-bottom: 20px;
     float: left;
+    position: relative;
 
 }.Image5 {
     margin-right: 20px;
     margin-bottom: 20px;
     float: left;
+    position: relative;
+}
+
+.text-block1 {
+    position:absolute;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    top: 100px;
+    width: 100%;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.text-block2 {
+    position:absolute;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    top: 100px;
+    width: 100%;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.text-block3 {
+    position:absolute;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    top: 100px;
+    width: 100%;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.text-block4 {
+    position:absolute;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    top: 100px;
+    width: 100%;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.text-block5 {
+    position:absolute;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    top: 100px;
+    width: 100%;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.line {
+    color: #666666;
 }
 
 #shrek {
