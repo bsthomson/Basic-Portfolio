@@ -61,3 +61,16 @@ section {
 .about {
     color: #4aaaa5;
 }
+
+footer {
+    background-color: #666666;
+    color: #ffffff;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    border-color: #4aaaa5;
+    border-top: 10px;
+    border-style: solid;
+}
