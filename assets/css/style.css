@@ -106,13 +106,19 @@ article {
     float: left;
     position: relative;
 
-}.Image5 {
+}
+.Image5 {
     margin-right: 20px;
     margin-bottom: 20px;
     float: left;
     position: relative;
 }
-
+.Image6 {
+    margin-right: 20px;
+    margin-bottom: 20px;
+    float: left;
+    position: relative;
+}
 .text-block1 {
     position:absolute;
     background-color: #4aaaa5;
@@ -158,6 +164,16 @@ article {
 }
 
 .text-block5 {
+    position:absolute;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    top: 100px;
+    width: 100%;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.text-block6 {
     position:absolute;
     background-color: #4aaaa5;
     color: #ffffff;
